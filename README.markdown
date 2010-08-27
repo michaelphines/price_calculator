@@ -1,0 +1,1 @@
+This was an exercise at our Agile mastery class with Alistair Cockburn.
